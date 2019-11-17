@@ -1,7 +1,7 @@
 # Full-Stack Developer Sample Project
 
 ## What is it about?
-This is a registration application for our Java meet up.
+This is a small web application allowing to register for the next Java Meetup.
  
 ## How to build?
 run below command on your command prompt
