@@ -15,6 +15,6 @@ Go to your browser and hit http://localhost:8080
 Click on Register and enter your details to register yourself for the Java meetup.
 
 #More?
-You may hit /k15t-full-stack-dev-tasks/javaDoc/index.html for the technical documentation on this app.
+You may hit /register-meetup-sujata-master/javaDoc/index.html for the technical documentation on this app.
 
 Thanks!
